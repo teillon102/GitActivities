@@ -1,1 +1,1 @@
-creating a merge conflict
+this is different then in the merge-conflict-activity-1 branch
