@@ -1,5 +1,1 @@
-"The sky above the port was the color of television, tuned to a dead channel"
-
--William Gibson, *Neuromancer*
-
-I have recently enjoyed working with C++ and SDL3
+no quote now
